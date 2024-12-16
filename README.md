@@ -59,6 +59,6 @@ Review LAION scores in the provided Excel files.
 Evaluate prompt relatedness metrics to understand stylistic contributions.
 
 # Author
-Created by: Qiuyang Feng, Haojie Ge, David Schweidel
+Created by: Shawn Chen, Cheryl Chung, Qiuyang Feng, Yuanxiang Zhao 
 
-Contact: frank.feng2@emory.edu, haojie.ge@emory.edu, dschweidel@emory.edu
+Contact: baixiao.chen@emory.edu, cheryl.chung@emory.edu, frank.feng2@emory.edu, yuanxiang.zhao@emory.edu

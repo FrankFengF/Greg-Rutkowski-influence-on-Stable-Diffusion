@@ -47,7 +47,7 @@ Extract metadata from DiffusionDB.
 
 Save prompts in the required format for processing.
 
-# 2. Run the Notebook:
+## 2. Run the Notebook:
 Open files in Jupyter Notebook or a compatible environment.
 
 Follow the instructions in each cell to process prompts, generate images, and calculate metrics.
@@ -59,6 +59,6 @@ Review LAION scores in the provided Excel files.
 Evaluate prompt relatedness metrics to understand stylistic contributions.
 
 # Author
-Created by: Shawn Chen, Cheryl Chung, Qiuyang Feng, Yuanxiang Zhao 
+Created by: Qiuyang Feng, Haojie Ge, David Schweidel
 
-Contact: baixiao.chen@emory.edu, cheryl.chung@emory.edu, frank.feng2@emory.edu, yuanxiang.zhao@emory.edu
+Contact: frank.feng2@emory.edu, haojie.ge@emory.edu, dschweidel@emory.edu

@@ -1,5 +1,11 @@
 # Greg-Rutkowski-influence-on-Stable-Diffusion
-Use LAION Score to quantify Greg Rutkowski's contribution on Stable Diffusion
+Use LAION Score to quantify Greg Rutkowski's contribution to Stable Diffusion.
+
+<p align="center">
+  <img src="greg-rutkowski-dragons-breath-2-2k.jpg" width="500" alt="Greg Rutkowski">
+  <br/>
+  <em>Dragon's Breath 2</em> by Greg Rutkowski
+</p>
 
 # Overview
 The project is designed to process and analyze prompts and images, specifically focusing on modifications related to artist references, such as Greg Rutkowski, and generating metrics to evaluate the aesthetic or stylistic qualities of images. This is part of a larger workflow for understanding the impact of artist-specific terms in AI-generated content.
